@@ -35,7 +35,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Poseo habilidades en desarrollo de software de pila completa, especializado en tecnologías web como Django, Spring Boot, React y Angular.</p>
+                        <p>Poseo habilidades tecnicas que te permitiran afrontar la transformación digital de tu negocio.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
@@ -46,12 +46,12 @@ export const Skills = () => {
                                 <h5>React</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
-                                <h5>Ecommerce</h5>
+                                <img src={meter1} alt="Image" />
+                                <h5>Desarrollo a medida</h5>
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Desarrollo a medida</h5>
+                                <h5>Automatización de procesos</h5>
                             </div>
                         </Carousel>
                     </div>

@@ -12,7 +12,7 @@ export const Contact = () => {
     }
 
     const [formDetails, setFormDetails] = useState(formInitialDetails);
-    const [buttonText, setButtonText] = useState("Send Message");
+    const [buttonText, setButtonText] = useState("Enviar mensaje");
     const [status, setStatus] = useState("send");
 
     //Forma de crear un formulario que modifica sus datos de manera escalable

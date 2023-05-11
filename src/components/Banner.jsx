@@ -58,7 +58,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Bienvenido a mi portafolio</span>
                 <h1>{`Hola, Soy Diego`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "FullStack Developer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Soy un apasionado desarrollador de software de pila completa. Mi enfoque está en soluciones web personalizadas con tecnologías como Django, Spring Boot, React y Angular. Soy un creativo solucionador de problemas, listo para llevar tus ideas a la realidad digital y mejorar la experiencia de tus clientes.</p>
+                  <p>Soy un apasionado desarrollador de software de pila completa. Mi enfoque está en soluciones web personalizadas con tecnologías como Django, Selenium, React y mas. Soy un creativo solucionador de problemas, listo para llevar tus ideas a la realidad digital y mejorar la experiencia de tus clientes.</p>
                   <a href="https://wa.link/0rw99i" target="_blank" rel="noreferrer"
                   style={{ textDecoration: 'none' }}
                   >
